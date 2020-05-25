@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfff109e-59ea-4548-a0cf-3681776ee7b6" name="Default Changelist" comment="" />
+    <list default="true" id="cfff109e-59ea-4548-a0cf-3681776ee7b6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/master_richardnodeapp.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web.config" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,11 +46,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590213604585</updated>
-      <workItem from="1590213605892" duration="672000" />
+      <workItem from="1590213605892" duration="4160000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1334" y="346" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590306329120">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1334" y="346" key="#com.intellij.fileTypes.FileTypeChooser/-1920.23.1920.1057/0.23.1680.1027@-1920.23.1920.1057" timestamp="1590306329120" />
   </component>
 </project>
